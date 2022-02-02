@@ -248,7 +248,7 @@ footer {
   DESKTOP MEDIA QUIERY
   =====================================*/
 
-  @media only screen and (min-width: 768px) {
+  @media only screen and (min-width: 1024px) {
 
     .top-nav{
       display: flex;
@@ -258,6 +258,7 @@ footer {
       margin: auto;
       text-align: left;
       align-items: center;
+      padding: 30px 0 0 0;
     }
 
     .top-nav h1 {
